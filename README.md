@@ -1,4 +1,4 @@
-# Group34
+# Vitality-Electronics - University Team Project - Group34
 
 # Installation Guide on a local computer:
 1# Download the zip file containing the repository from GitHub.
