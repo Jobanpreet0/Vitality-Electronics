@@ -58,4 +58,4 @@ The blade.php files are located in resources/views and resources/views/auth fold
 2# If you can't view the project on the browser make sure you are hosting the repository correctly.
 3# If you can't view the project make sure the URL is correct. 
 4# If the problem persists do the installation steps again from zero.
-5# For any other problems contact: 210142187@aston.ac.uk
+5# For any other problems contact: Joban.01.singh@live.com
