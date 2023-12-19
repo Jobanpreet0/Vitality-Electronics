@@ -1,6 +1,6 @@
 # Vitality Electronics
 
-#University Project Team Members:
+# University Project Team Members:
 •	Jobanpreet Singh
 •	Satvinder Singh Sangha
 •	Rohan Dhaliwal
