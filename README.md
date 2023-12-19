@@ -1,4 +1,4 @@
-# Vitality Electronics
+# Vitality Electronics (Website)
 
 # University Project Team Members:
 •	Jobanpreet Singh
