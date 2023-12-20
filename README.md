@@ -11,6 +11,9 @@
 # Description
 The aim of the project was to create an interactive website for selling electronics for various purposes, such as computers, keyboards, monitors, mice, microphones, etc. The website is intended to be fully functional, featuring a login system for users and admins. It is designed to include animations and operate as a dynamic website with multiple features. Customers can create accounts and log in, with the data stored in a database. Users can add items to the basket and make purchases. Additionally, customers can access "About Us" and "Contact Us" pages to view information about the website.
 
+# Demo
+![Website](https://github.com/Jobanpreet0/Vitality-Electronics/assets/66274737/c0badd8f-a563-4435-b54f-ddbecca37e13)
+
 # Installation Guide on a local computer:
 1# Download the zip file containing the repository from GitHub.
 2# Extract the zip file.
